@@ -17,7 +17,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'money-rails'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem "slim-rails", github: "slim-template/slim-rails"
+gem "slim-rails"
 gem 'html2slim'
 
 group :development do
